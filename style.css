@@ -1,0 +1,17 @@
+body  {
+	
+  background-image: url("https://images.pexels.com/photos/988872/pexels-photo-988872.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+
+}
+table, th, td {
+  border: 1px solid black;
+  text-align: right;
+}
+
+
+.main_actors {
+	color:red;
+}
